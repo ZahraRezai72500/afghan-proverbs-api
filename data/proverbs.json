@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "textDari": "دوغ را ماست گفته نمی‌توانی.",
+    "textPashto": "شېدو ته مستې نشې ویلی.",
+    "translationEn": "You can’t call yogurt what’s just milk.",
+    "meaning": "Things are what they are; you can't fake them.",
+    "category": "wisdom"
+  },
+  {
+    "id": 2,
+    "textDari": "با یک گل بهار نمی‌شود.",
+    "textPashto": "یوه ګل پسرلی نه جوړوي.",
+    "translationEn": "One flower doesn’t make spring.",
+    "meaning": "One small sign doesn’t mean a major change has come.",
+    "category": "wisdom"
+  },
+  {
+    "id": 3,
+    "textDari": "هر کی به فکر خویش، کوسه به فکر ریش.",
+    "textPashto": "هر څوک د ځان غم خوري، کوسه د ږیرې.",
+    "translationEn": "Everyone thinks of themselves, even the shark of its beard.",
+    "meaning": "People mostly care about their own interests.",
+    "category": "humor"
+  },
+  {
+    "id": 4,
+    "textDari": "آب از سر گذشت چه یک گز چه صد گز.",
+    "textPashto": "اوبه چې تر غاړې تیرې شوې، نو که یوه ګزه وي که سوه.",
+    "translationEn": "Once water passes your head, it doesn’t matter how deep it is.",
+    "meaning": "When you're overwhelmed, the degree no longer matters.",
+    "category": "philosophy"
+  },
+  {
+    "id": 5,
+    "textDari": "نابرده رنج گنج میسر نمی‌شود.",
+    "textPashto": "بې له زحمه خزانه نه ترلاسه کېږي.",
+    "translationEn": "No pain, no gain.",
+    "meaning": "Success requires effort and hard work.",
+    "category": "motivation"
+  },
+  {
+    "id": 6,
+    "textDari": "مرغ همسایه غاز است.",
+    "textPashto": "د ګاونډي چرګ غوز ګڼل کېږي.",
+    "translationEn": "The neighbor’s chicken looks like a goose.",
+    "meaning": "Others' things often seem better than our own.",
+    "category": "humor"
+  },
+  {
+    "id": 7,
+    "textDari": "سنگ بزرگ علامت نزدن است.",
+    "textPashto": "لوی کاڼی د نه ویشتلو نښه ده.",
+    "translationEn": "A big stone is a sign that it won’t be thrown.",
+    "meaning": "When a task seems too ambitious, it probably won’t get done.",
+    "category": "reality"
+  },
+  {
+    "id": 8,
+    "textDari": "دیگ به دیگ می‌گوید رویت سیاه.",
+    "textPashto": "یو دیګ بل دیګ ته وايي چې مخ دې تور دی.",
+    "translationEn": "The pot tells the other pot: your face is black.",
+    "meaning": "People criticize others for faults they themselves have.",
+    "category": "irony"
+  },
+  {
+    "id": 9,
+    "textDari": "نه سیخ بسوزد، نه کباب.",
+    "textPashto": "نه سیخ وسوځي، نه کباب.",
+    "translationEn": "Neither the skewer burns, nor the kebab.",
+    "meaning": "Trying to keep both sides happy.",
+    "category": "balance"
+  },
+  {
+    "id": 10,
+    "textDari": "یک دست صدا ندارد.",
+    "textPashto": "یوه لاس غږ نه لري.",
+    "translationEn": "One hand has no sound.",
+    "meaning": "Teamwork is necessary to make an impact.",
+    "category": "unity"
+  }
+]
