@@ -21,6 +21,6 @@ This is a RESTful API built with Node.js and Express to manage traditional Afgha
 
 To get started with the Afghan Proverbs API, you can visit the following links:
 
-- Clone the repository from GitHub: [Afghan Proverbs API GitHub]
-- Access the live deployed API: [Afghan Proverbs API on Render]
+- Clone the repository from GitHub: [Afghan Proverbs API GitHub](http://github.com/ZahraRezai72500/afghan-proverbs-api)
+- Access the live deployed API: [Afghan Proverbs API on Render](http://afghan-proverbs-api-zw6m.onrender.com)
 
